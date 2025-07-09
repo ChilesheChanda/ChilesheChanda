@@ -32,7 +32,7 @@ I'm Chileshe, a Data Scientist building AI solutions—from notebooks to product
 
   ## Badges
 
-<div align="center"><a href="https://github.com/ChilesheChanda"><img src="https://github-readme-stats.vercel.app/api/top-langs username=ChilesheChanda&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="auto" height="160" /></a>&nbsp;&nbsp;<a href="https://github.com/ChilesheChanda"><img src="https://github-readme-stats.vercel.app/api?username=ChilesheChanda&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="auto" height="160" /></a>
+<div align="center"><a href="https://github.com/ChilesheChanda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChilesheChanda&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" width="auto" height="160" /></a>&nbsp;&nbsp;<a href="https://github.com/ChilesheChanda"><img src="https://github-readme-stats.vercel.app/api?username=ChilesheChanda&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="auto" height="160" /></a>
 </div>
 
 <div style="text-align: center;">
