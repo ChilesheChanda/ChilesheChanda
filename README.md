@@ -38,7 +38,7 @@ I'm Chileshe, a Data Scientist building AI solutions—from notebooks to product
 <div style="text-align: center;">
   <a href="https://github.com/ChilesheChanda">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph username=ChilesheChanda&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=ChilesheChanda&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
       alt="GitHub Activity Graph"
       style="max-width: 100%; height: auto;"
     />
